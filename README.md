@@ -1,3 +1,3 @@
 # AWS Data Pipeline
 
-![Image](/AWS_Data_Pipeline.png)
+![Image](/AWS_Diagram.drawio.png)
